@@ -1,2 +1,0 @@
-# whprojects
-Westhills projects folder
